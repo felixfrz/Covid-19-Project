@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"Deji",
+        "email":"oladoyinayodeji@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Ayo",
+        "email":"ayodeji@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Doyin",
+        "email":"oladoyin@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"Felix",
+        "email":"felix@gmail.com"
+    }
+]
+
+
+"address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+
+ html += `<li>totalSamplesTested: ${state.state}, totalSamplesTested: ${state.casesOnAdmission}, totalSamplesTested: ${state.casesOnAdmission}, confirmedCases: ${state.confirmedCases}, dealth: ${state.death}, dischargered: ${state.discharged}`</li>;
+
